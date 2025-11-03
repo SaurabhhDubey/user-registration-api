@@ -1,0 +1,27 @@
+{
+  "name": "user-registration-api",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000u\u0000s\u0000e\u0000r\u0000-\u0000r\u0000e\u0000g\u0000i\u0000s\u0000t\u0000r\u0000a\u0000t\u0000i\u0000o\u0000n\u0000-\u0000a\u0000p\u0000i\u0000\r\u0000 \u0000",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaurabhhDubey/user-registration-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaurabhhDubey/user-registration-api/issues"
+  },
+  "homepage": "https://github.com/SaurabhhDubey/user-registration-api#readme",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "mongoose": "^8.19.2"
+  }
+}
